@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be693f9ccf1b4722b2c56eb0e1575cd, type: 3}
+  m_Name: 07_skin_sparklelion
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b5411443b7b716e4785100bee6d62d4e, type: 3}
+  id: sparkle_lion_07
+  itemName: Sparkle Lion
+  price: 50
+  unlockedOnStart: 0
+  skin: {fileID: 2100000, guid: 57ab26a0c709b4c8bbcadd6c3034cda9, type: 2}
+  trail: {fileID: 2732703008812583675, guid: 7ea98b0499cb6417a858c9c9414e9b4e, type: 3}

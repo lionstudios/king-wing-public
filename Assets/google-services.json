@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066353320785",
+    "project_id": "kingwing-d71e2",
+    "storage_bucket": "kingwing-d71e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066353320785:android:a83746543cf2330687a970",
+        "android_client_info": {
+          "package_name": "com.lionstudios.kingwing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066353320785-i7bb5uj5fsaikl6ofpje7ditr2kc6vsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjFVPUDy8Ue4w9EvY2qW6VipCwqdFB00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066353320785-i7bb5uj5fsaikl6ofpje7ditr2kc6vsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066353320785-9cavddj6lqekbtq7b1sd2uj1l0jfk9r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lionstudios.kingwing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be693f9ccf1b4722b2c56eb0e1575cd, type: 3}
+  m_Name: 06_skin_lightninglion
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 8eb535e1937f1af45a3c6d5ba1c3b2fa, type: 3}
+  id: lightning_lion_06
+  itemName: Lightning Lion
+  price: 50
+  unlockedOnStart: 0
+  skin: {fileID: 2100000, guid: 03cc6113510b248dcaf13cb430e21969, type: 2}
+  trail: {fileID: 8513610961604603259, guid: 177402355e379463eadf6b9d44fffd65, type: 3}

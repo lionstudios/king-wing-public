@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be693f9ccf1b4722b2c56eb0e1575cd, type: 3}
+  m_Name: 03_skin_spikyfirelion
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: d785a622d7d17e84683b4597b6923eb2, type: 3}
+  id: spikyfire_lion_03
+  itemName: SpikyFire Lion
+  price: 10
+  unlockedOnStart: 0
+  skin: {fileID: 2100000, guid: 6ffad69d532964b0f83be1472e1bcd7a, type: 2}
+  trail: {fileID: 185524, guid: 7ef15b3b75916c044aa8aa197b362208, type: 3}

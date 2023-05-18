@@ -1,0 +1,22 @@
+{
+  "name": "com.lionstudios.pre-release.creatives",
+  "lionId": "LCA",
+  "author": "Lion Studios",
+  "displayName": "Lion Suite - Creatives (pre-release)",
+  "version": "0.1.0-pr4",
+  "description": "Creatives module",
+  "unity": "2019.4",
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "",
+      "path": "Samples~/"
+    }
+  ],
+  "dependencies": {
+    "com.lionstudios.beta.ingamedebugconsole": "1.5.6"
+  },
+  "publishConfig": {
+    "registry": "http://packages.lionstudios.cc:4873"
+  }
+}

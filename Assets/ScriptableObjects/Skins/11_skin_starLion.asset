@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be693f9ccf1b4722b2c56eb0e1575cd, type: 3}
+  m_Name: 11_skin_starLion
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 3abd14f067ab54244ac4a1b24d826bfa, type: 3}
+  id: star_lion_11
+  itemName: Star Lion
+  price: 50
+  unlockedOnStart: 0
+  skin: {fileID: 2100000, guid: 13490b5160aee49b5b54aee75ac75ccf, type: 2}
+  trail: {fileID: 130200, guid: 23818e20c9fcaa74eae69d5f3348c74d, type: 3}

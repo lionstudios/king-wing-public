@@ -126,6 +126,12 @@ public class GameManager : MonoSingleton<GameManager>
 
         AdsManager.HideCrossPromo();
 
+
+        // LION OFFLINE MODULE LOGIC
+        // Turn back on offline monitoring
+        OfflineDetection.SetInterruptable(true);
+        Debug.Log("TURNING OFFLINE MONITORING OFF. LEVEL STARTED");
+
         IsStarted = true;
     }
 
@@ -202,8 +208,19 @@ public class GameManager : MonoSingleton<GameManager>
 
         //Dispatcher.Send(EventId.LaunchInterstitialVideo, levelEventArgs);
         AdsManager.ShowInterstitialAd(levelEventArgs);
-
         AdsManager.ShowCrossPromo();
+
+
+
+
+
+        // LION OFFLINE MODULE LOGIC
+        // Turn back on offline monitoring
+        OfflineDetection.SetInterruptable(false);
+        Debug.Log("TURNING OFFLINE MONITORING BACK ON");
+
+
+
 
         UIManager.Instance.LeaderboardView.gameObject.SetActive(true);
         List<LeaderboardGroup> leaderboards = await LeaderboardsManager.ListLeaderboards();

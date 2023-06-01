@@ -1,8 +1,4 @@
 {
-  "com.lionstudios.dev.offline": {
-    "version": "0.0.0-d1",
-    "dependencies": null
-  },
   "com.lionstudios.dev.splash": {
     "version": "0.0.0-d1",
     "dependencies": {
@@ -130,6 +126,10 @@
         "dependencies": null
       }
     }
+  },
+  "com.lionstudios.pre-release.offline": {
+    "version": "0.1.0-pr2",
+    "dependencies": null
   },
   "com.lionstudios.pre-release.referrals": {
     "version": "0.0.1-pr7",

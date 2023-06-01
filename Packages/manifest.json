@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "com.heroiclabs.nakama-unity": "https://github.com/heroiclabs/nakama-unity.git?path=/Packages/Nakama",
-    "com.lionstudios.dev.offline": "0.0.0-d1",
     "com.lionstudios.dev.splash": "0.0.0-d1",
     "com.lionstudios.pre-release.creatives": "0.1.0-pr4",
     "com.lionstudios.pre-release.iap": "0.1.0-pr11",
     "com.lionstudios.pre-release.ingamemessaging": "0.1.0-pr1",
     "com.lionstudios.pre-release.leaderboards": "0.1.0-pr6",
+    "com.lionstudios.pre-release.offline": "0.1.0-pr2",
     "com.lionstudios.pre-release.referrals": "0.0.1-pr7",
     "com.lionstudios.pre-release.satoriclient": "0.1.0-pr4",
     "com.lionstudios.release.autobuilder": "0.1.1",

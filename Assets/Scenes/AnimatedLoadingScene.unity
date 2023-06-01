@@ -241,7 +241,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &555298720
+--- !u!1001 &1716342617
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -254,15 +254,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8931218897450166464, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 647.04706
       objectReference: {fileID: 0}
     - target: {fileID: 8931218897450166464, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 276.21475
       objectReference: {fileID: 0}
     - target: {fileID: 8931218897450166464, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.927222
       objectReference: {fileID: 0}
     - target: {fileID: 8931218897450166464, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -296,21 +296,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: NoConnectionNoPlay
       objectReference: {fileID: 0}
-    - target: {fileID: 8931218897450166467, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
-      propertyPath: WarningPopup
-      value: 
-      objectReference: {fileID: 555298721}
-    - target: {fileID: 8931218899350978190, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
---- !u!223 &555298721 stripped
-Canvas:
-  m_CorrespondingSourceObject: {fileID: 8931218899350978189, guid: b7a573b07c1724099a15c8e126f4e58f, type: 3}
-  m_PrefabInstance: {fileID: 555298720}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8445062615565946324
 PrefabInstance:
   m_ObjectHideFlags: 0

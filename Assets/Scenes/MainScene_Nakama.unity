@@ -1246,6 +1246,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: CornerButtons
       objectReference: {fileID: 0}
+    - target: {fileID: 4184484621928930792, guid: 1b18a325fd88b454193868153cf10512, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4184484621928930795, guid: 1b18a325fd88b454193868153cf10512, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4184484621928930795, guid: 1b18a325fd88b454193868153cf10512, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4557341514288578866, guid: 1b18a325fd88b454193868153cf10512, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
